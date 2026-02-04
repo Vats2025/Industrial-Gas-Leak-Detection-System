@@ -96,4 +96,4 @@
 - Mobile alert system
 - Regulatory compliance reporting
 
-**Note**: System accuracy depends on quality of training data. Always verify predictions with physical safety checks in real industrial applications.
+**Note**: System accuracy depends on quality of training data.
